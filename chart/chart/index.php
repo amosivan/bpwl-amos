@@ -23,7 +23,7 @@
               data: [$jumlahPendaftar]
           },
           {
-              name: 'Diterima',
+              name: 'Ashiap',
               data: [$jumlahDiterima]
           }
       ]
